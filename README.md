@@ -26,4 +26,12 @@
 
 Создать Service с именем netology-svc и подключить к netology-web.
 
-Подключиться локально к Service с помощью kubectl port-forward и вывести значение (curl или в браузере).
+[netology-web](https://github.com/SSitkarev/1.2-k8s/blob/main/pods/netology-web.yaml)
+
+Подключиться локально к Service с помощью kubectl port-forward
+
+![Задание2](https://github.com/SSitkarev/1.2-k8s/blob/main/img/4.jpg)
+
+ и вывести значение (curl или в браузере).
+ 
+![Задание2](https://github.com/SSitkarev/1.2-k8s/blob/main/img/5.jpg)
